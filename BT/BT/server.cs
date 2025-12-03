@@ -1,8 +1,8 @@
 namespace BT
 {
-    public partial class Form1 : Form
+    public partial class server : Form
     {
-        public Form1()
+        public server()
         {
             InitializeComponent();
         }

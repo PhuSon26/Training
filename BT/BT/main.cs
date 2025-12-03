@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace BT
 {
-    public partial class Form3 : Form
+    public partial class main : Form
     {
-        public Form3()
+        public main()
         {
             InitializeComponent();
         }

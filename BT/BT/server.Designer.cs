@@ -1,6 +1,6 @@
 ﻿namespace BT
 {
-    partial class Form1
+    partial class server
     {
         /// <summary>
         ///  Required designer variable.
